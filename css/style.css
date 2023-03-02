@@ -1,0 +1,33 @@
+.header {
+    background-color: rgb(136, 225, 252);
+    text-align: center;
+}
+
+div.information {
+  color:rgb(255, 255, 255);
+  background-color:#030202; 
+  height:150px;
+  width:150px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+h1 {
+    color: rgb(0, 0, 0);
+  }
+  
+  h2 {
+    color: hsl(271, 93%, 47%);
+  }
+  
+  p {
+    color: #000000;
+  }
+
+
+
